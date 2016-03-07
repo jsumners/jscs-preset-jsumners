@@ -1,0 +1,18 @@
+{
+  "name": "jscs-preset-jsumners",
+  "version": "0.1.0",
+  "description": "JSCS preset for James Sumners's projects",
+  "repository": "jsumners/jscs-preset-jsumners",
+  "homepage": "http://jrfom.com/",
+  "keywords": [
+    "jsumners",
+    "jscs-preset"
+  ],
+  "main": "jscs.json",
+  "author": "James Sumners <james.sumners@gmail.com> (http://jrfom.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jscs": "^3.0.2"
+  }
+}
